@@ -1,0 +1,3 @@
+# this our first git program
+
+## we have installed git and ...
